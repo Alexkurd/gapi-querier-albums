@@ -1,3 +1,7 @@
+https://issuetracker.google.com/issues/132274769
+Google Photos API can't add photos to the new album.
+
+
 GAPI-Querier, AKA: Find out-of-album photos
 ==
 I needed to get a list of all my photos (in Google Photos) that were NOT in an album,
